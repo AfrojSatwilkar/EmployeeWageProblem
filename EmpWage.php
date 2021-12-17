@@ -8,7 +8,7 @@ class EmpWage {
     
 
     function employeeWageUsingSwitch($num) {
-        switch ($num) {
+    switch ($num) {
             case 1:
                 $EMP_HRS = 8;
                     break;
